@@ -50,7 +50,7 @@ google-colab==1.0.0
 
 ### 🎲 Random Seed
 
-All stochastic processes use the fixed random seed:
+All stochastic processes can use the fixed random seed:
 ```python
 random_seed = 42
 np.random.seed(42)
