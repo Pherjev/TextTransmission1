@@ -81,4 +81,3 @@ YOUR_PATH
 - Some LLM operations require API keys (handled via Colab secrets)
 - Results may vary slightly due to GPU floating-point precision, but overall conclusions remain stable
 
-¿Quieres que ajuste algún detalle específico?
